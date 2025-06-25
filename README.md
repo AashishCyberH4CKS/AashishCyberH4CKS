@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Osintel** – Osint tool for emial, phone & domain Investigation
+- 🔭 I’m currently working on **Osintel** – Osint tool for Email, Phone & Domain Investigation
 - 🌱 Currently learning **OSINT, Python Automation, and Threat Intelligence**
 - ⚙️ Building tools focused on **privacy, local data scanning, and link safety**
 - 🧠 Exploring **bug bounties, recon techniques, and CLI utilities**
